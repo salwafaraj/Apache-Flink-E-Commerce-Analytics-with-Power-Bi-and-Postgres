@@ -1,1 +1,1 @@
-# Apache-Flink-E-Commerce-Analytics-with-Power-Bi-and-Postgres
+# Analyse du commerce électronique Apache Flink avec Elasticsearch et Postgres
